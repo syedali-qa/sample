@@ -1,0 +1,10 @@
+workingdir  staging area   git(local)	GitHub(remote)
+(git demo)   git add<fn> git commit -m		   
+git init			
+
+git   	GitHub
+master	master
+dev1	dev1
+dev2	dev2
+dev3	dev3
+
