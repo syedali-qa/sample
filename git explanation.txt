@@ -1,0 +1,7 @@
+working dir	staging area		git (local)			GitHub
+file(git init)	git add filename	git commit -m""	 git push origin master	
+		git add	*
+
+
+
+
